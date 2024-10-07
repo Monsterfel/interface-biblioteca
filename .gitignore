@@ -1,0 +1,25 @@
+
+### .gitignore
+
+```gitignore
+# Python
+__pycache__/
+*.py[cod]
+*.pyo
+*.pyd
+
+# Banco de dados
+biblioteca.db
+
+# Ambiente virtual
+venv/
+env/
+
+# Editor de texto
+*.swp
+*.swo
+*.swn
+
+# IDEs
+.idea/
+.vscode/
